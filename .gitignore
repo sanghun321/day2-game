@@ -1,0 +1,15 @@
+# 비밀 키 (가장 중요)
+.env
+.env.*
+!.env.example
+
+# Vercel 로컬 설정
+.vercel
+
+# Node.js 패키지 (나중에 설치하면 생김)
+node_modules/
+
+# 운영체제·편집기 찌꺼기
+.DS_Store
+Thumbs.db
+.vscode/
